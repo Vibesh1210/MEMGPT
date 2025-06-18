@@ -35,8 +35,6 @@ Memory management in this chatbot follows a structured approach:
 
 This separation helps optimize performance by balancing between memory accessibility and efficiency.
 
-!\[Memory Structure]\(./JPEG image-455B-AAD2-C3-0.jpeg)
-
 Example:
 
 * When a user asks: "What's my favorite kind of dog?"
